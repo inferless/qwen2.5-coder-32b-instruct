@@ -1,6 +1,6 @@
 # Tutorial - Deploy Qwen2.5-Coder-32B-Instruct using Inferless
-[Qwen2.5-Coder-32B-Instruct](https://huggingface.co/qwen/Qwen2.5-Coder-32B-Instruct) is a SOTA coder LLM developed by Alibaba Cloud's Qwen team. This model is part of the Qwen2.5 series and is tailored for instruction-based tasks, particularly in code generation, reasoning, and repair.
-It features a dense transformer architecture with 32.5 billion parameters, 64 layers, and supports a context length of up to 131,072 tokens, enabling it to handle extensive inputs effectively. The model utilizes the RoPE (Rotary Position Embedding) mechanism, SwiGLU activation functions, RMSNorm normalization, and Attention QKV bias to enhance its performance.
+[Qwen2.5-Coder-32B-Instruct](https://huggingface.co/qwen/Qwen2.5-Coder-32B-Instruct) is a state‑of‑the‑art, 7B vision‑language model from Alibaba Cloud’s Qwen team. Built for instruction‑tuned applications, it seamlessly fuses robust language understanding with advanced visual analysis.
+Whether it’s recognizing complex scenes, parsing detailed documents, or even comprehending long videos by pinpointing key moments, this model is engineered to act as a versatile visual agent. With capabilities that include generating structured outputs (like bounding boxes and JSON) and supporting multilingual text within images, it opens up new possibilities for interactive chatbots, multimedia content analysis, and more.
 
 ## TL;DR:
 - Deployment of Qwen2.5-Coder-32B-Instruct model using [vllm](https://github.com/vllm-project/vllm).
