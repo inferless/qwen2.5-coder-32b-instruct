@@ -1,6 +1,6 @@
 version: 1.0.0
 
-name: qwen2.5-coder-32b-instruct
+name: qwen2-5-coder-32b-instruct
 import_source: GIT
 
 # you can choose the options between ONNX, TENSORFLOW, PYTORCH
